@@ -1,0 +1,1311 @@
+Microsoft Windows [Version 10.0.22621.3007]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\rishu>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 9048-2C9E
+
+ Directory of C:\Users\rishu
+
+16-01-2024  16:35    <DIR>          .
+26-12-2023  16:36    <DIR>          ..
+28-07-2023  22:41    <DIR>          .astropy
+15-10-2023  14:30             3,103 .bash_history
+02-10-2023  12:23    <DIR>          .conda
+02-07-2023  18:45                25 .condarc
+02-07-2023  18:44    <DIR>          .continuum
+27-07-2023  01:37    <DIR>          .docker
+03-07-2023  11:13    <DIR>          .ipython
+24-07-2023  22:20    <DIR>          .jupyter
+11-10-2023  11:04                20 .lesshst
+28-07-2023  22:41    <DIR>          .matplotlib
+26-04-2023  13:11    <DIR>          .ms-ad
+28-07-2023  22:42    <DIR>          .spyder-py3
+09-10-2023  10:22    <DIR>          .VirtualBox
+03-07-2023  11:09    <DIR>          anaconda3
+09-04-2023  13:01    <DIR>          Contacts
+20-01-2024  11:40    <DIR>          Desktop
+09-01-2024  17:11    <DIR>          Documents
+23-01-2024  14:55    <DIR>          Downloads
+09-04-2023  13:01    <DIR>          Favorites
+09-04-2023  13:01    <DIR>          Links
+25-05-2023  15:10    <DIR>          Music
+14-04-2023  00:55    <DIR>          OneDrive
+21-12-2023  21:47    <DIR>          Pictures
+26-11-2023  14:16    <DIR>          Postman
+30-11-2023  22:21    <DIR>          PycharmProjects
+09-04-2023  13:01    <DIR>          Saved Games
+09-04-2023  13:13    <DIR>          Searches
+04-11-2023  00:58    <DIR>          Untitled Folder
+29-11-2023  12:01    <DIR>          Videos
+11-09-2023  10:49    <DIR>          VirtualBox VMs
+               3 File(s)          3,148 bytes
+              29 Dir(s)  35,826,941,952 bytes free
+
+C:\Users\rishu>cd downloads
+
+C:\Users\rishu\Downloads>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rishu\Downloads>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 9048-2C9E
+
+ Directory of C:\Users\rishu\Downloads
+
+23-01-2024  14:55    <DIR>          .
+16-01-2024  16:35    <DIR>          ..
+02-08-2023  23:15    <DIR>          .ipynb_checkpoints
+28-09-2023  09:40           918,960 03_bank.csv
+28-09-2023  09:40            37,658 03_Boston.csv
+18-08-2023  17:10             1,070 89743923188.ics
+14-08-2023  21:57           140,811 9+ yrs Experience_RPA-CSM_Available Immediately.docx
+02-07-2023  18:34       824,774,840 Anaconda3-2023.03-1-Windows-x86_64.exe
+28-11-2023  10:24    <DIR>          archive
+28-11-2023  10:22         2,037,893 archive.zip
+31-07-2023  14:28           327,257 av-bootcamp-20230729-29435.pdf
+23-01-2024  14:56    <DIR>          AWS Deployment EC2
+08-01-2024  12:20           128,554 Azure Data Engineer 2.0 yrs_Immediately Available.docx
+28-11-2023  23:31         1,596,495 Azure Data Engineer 9.5 yrs-compressed.pdf
+28-11-2023  23:31         1,879,341 Azure Data Engineer 9.5 yrs.pdf
+08-09-2023  19:10       193,708,032 BluePrismLearning7.2.1_x64.msi
+07-08-2023  20:58            37,123 Boston.csv
+07-08-2023  20:51            41,562 Boston.xlsx
+08-01-2024  11:51         6,017,238 Certified-Data-Engineer-brochure-DataMites-India-V7 (1).pdf
+30-10-2023  21:33         6,017,238 Certified-Data-Engineer-brochure-DataMites-India-V7.pdf
+07-09-2023  15:49            70,467 CODI OVERVIEW !  (1).pdf
+01-12-2023  16:33            70,467 CODI OVERVIEW !  (2).pdf
+19-08-2023  09:08            70,467 CODI OVERVIEW ! .pdf
+19-12-2023  11:45            43,515 CollaberaGaurav Tiwari_Appointment_Letter.pdf
+19-12-2023  11:45           116,140 Collabera_FnF_GAURAV TIWARI_C02051.pdf
+30-11-2023  20:54           208,906 contacts.csv
+22-11-2023  10:49         2,884,436 data.csv
+31-10-2023  15:29         7,285,421 DataConversionPlanTemplate.docx
+02-11-2023  10:03             1,678 Demo.pem
+27-07-2023  00:52       584,747,856 Docker Desktop Installer.exe
+11-10-2023  09:50        63,524,104 dvc-3.23.0.exe
+05-09-2023  12:06        20,250,599 e brochure_compressed.pdf
+01-08-2023  21:26           614,567 EAadhaar_0000004915959420180215142102_17112021112924_unlocked.pdf
+19-12-2023  11:27           149,840 eStatement3138IN_2016-08-24_07_00.pdf
+08-09-2023  19:08           224,229 EULA.Clickwrap.v.10.7.2019.08.28.pdf
+07-10-2023  03:06           456,241 form 15g.pdf
+19-12-2023  11:25            65,838 Form16.pdf
+01-10-2023  01:02            24,417 GauravTiwari's Resume.pdf
+20-11-2023  09:01           117,835 geyser warranty1.pdf
+13-08-2023  10:47        61,230,448 Git-2.41.0.3-64-bit.exe
+21-08-2023  13:09            20,728 IDC_FY 16_Comp Plan Group III (CL10 - CL13)_Revised - April 1 2016.xlsx
+19-12-2023  22:35             6,902 images.png
+26-12-2023  14:43            41,423 IMG-20220314-WA0006.jpg
+31-07-2023  15:17            26,474 IMG-20230712-WA0000.jpg
+31-07-2023  15:17           316,338 IMG-20230728-WA0001.jpeg
+05-09-2023  12:15         5,778,677 INDIVIDUAL_PLANS.pdf
+10-10-2023  19:14            47,905 invoice (1).pdf
+10-10-2023  19:13            44,623 invoice.pdf
+10-10-2023  19:15           162,672 invoice3.pdf
+06-12-2023  09:54            95,856 Invoice_1512001749.pdf
+02-10-2023  19:44            75,100 Kafka.jpg
+27-10-2023  08:44       598,327,296 mongodb-windows-x86_64-7.0.2-signed.msi
+31-07-2023  21:02           897,991 My Doc - 440304.pdf
+19-12-2023  11:32         1,335,297 My Doc - 925449.pdf
+04-12-2023  11:11            27,790 part-00000-f9c795a0-2a47-4397-a82e-2d93e35b0475-c000.snappy.parquet
+27-09-2023  00:34           110,750 Payslip_891940_CIN_Nov_2022 (1) (1).pdf
+27-09-2023  00:34           110,750 Payslip_891940_CIN_Nov_2022 (1).pdf
+12-12-2023  10:11        17,895,397 PDF Gallery_20231123_202319 (1).pdf
+12-12-2023  10:11        17,895,397 PDF Gallery_20231123_202319.pdf
+26-11-2023  14:15       131,422,768 Postman-win64-Setup.exe
+06-01-2024  14:56            13,381 PROJECT REQUIREMENT.docx
+02-11-2023  10:02         3,708,928 putty-64bit-0.79-installer.msi
+17-04-2023  21:30       520,305,296 pycharm-professional-2023.1.exe
+04-11-2023  22:50        28,524,812 python (full notes).pdf
+02-08-2023  21:01           108,365 Python Essentials-2 Local Machine.ipynb
+03-11-2023  22:47         2,959,791 Python M1 ans.pdf
+02-06-2023  10:09        25,347,040 python-3.11.3-amd64.exe
+20-11-2023  15:30        72,536,352 QHISE.EXE
+06-11-2023  13:36           183,051 Quote - 2023-11-02T171118.468.pdf
+19-12-2023  11:32            26,822 Resignation Acceptance Mail -11260820-Gaurav Tiwari.pdf
+26-12-2023  14:09           128,511 Resume.docx
+08-09-2023  19:08             1,841 rishugaurav.lic
+16-11-2023  09:57         1,241,806 run-1700107425717-part-r-00000 (1).snappy
+16-11-2023  09:54         1,241,806 run-1700107425717-part-r-00000.snappy
+19-12-2023  22:29             5,183 Screenshot 2023-12-19 222353 (1).png
+19-12-2023  22:30            20,380 Screenshot 2023-12-19 222353 (2).png
+19-12-2023  22:31            19,954 Screenshot 2023-12-19 222353 (3).png
+19-12-2023  22:32             3,697 Screenshot 2023-12-19 222353 (4).png
+19-12-2023  22:34            13,262 Screenshot 2023-12-19 222353 (5).png
+19-12-2023  22:27             5,183 Screenshot 2023-12-19 222353.png
+19-12-2023  22:22         1,035,848 SETTLEMENT REPORT -  11260820.eml
+20-11-2023  15:13         4,290,992 SQL2022-SSEI-Expr.exe
+20-11-2023  15:33        45,357,056 SQLServer2005_SSMSEE (1).msi
+21-11-2023  09:26        45,357,056 SQLServer2005_SSMSEE (2).msi
+20-11-2023  15:33        45,357,056 SQLServer2005_SSMSEE.msi
+20-11-2023  15:34        45,900,800 SQLServer2005_SSMSEE_x64.msi
+20-11-2023  16:20       678,287,184 SSMS-Setup-ENU.exe
+22-11-2023  10:36       573,018,456 TableauDesktop-64bit-2023-3-0.exe
+11-08-2023  14:22         1,446,200 TeamsSetup_c_w_.exe
+21-08-2023  13:09           231,321 Terms of Employment.pdf
+10-01-2024  14:54            61,194 train.csv
+13-08-2023  11:05     5,037,662,208 ubuntu-22.04.3-desktop-amd64 (1).iso
+20-11-2023  15:21       610,856,772 Unconfirmed 929836.crdownload
+04-12-2023  12:22           149,392 Untitled3.ipynb
+13-08-2023  10:14        25,355,496 VC_redist.x64.exe
+16-05-2023  07:30        92,718,208 VSCodeUserSetup-x64-1.78.2.exe
+21-08-2023  21:02            83,662 WhatsApp Image 2023-08-09 at 17.12.35.jpeg
+16-10-2023  12:34    <DIR>          WhatsApp Unknown 2023-10-02 at 19.49.05
+02-10-2023  19:49           422,120 WhatsApp Unknown 2023-10-02 at 19.49.05.zip
+20-11-2023  15:45     6,705,289,216 Win11_23H2_English_x64.iso
+27-07-2023  01:03        17,104,896 wsl_update_x64.msi
+19-12-2023  22:22            77,595 Your eStatement on 30_11_2020 is now available. Ref__E1012200940432733430-1_.eml
+19-12-2023  22:22            77,861 Your NEFT Credit Advice dated  09-Dec-2020.eml
+              97 File(s) 17,140,997,727 bytes
+               6 Dir(s)  35,826,941,952 bytes free
+
+C:\Users\rishu\Downloads>cd AWS Deployment EC2
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 9048-2C9E
+
+ Directory of C:\Users\rishu\Downloads\AWS Deployment EC2
+
+23-01-2024  14:56    <DIR>          .
+23-01-2024  14:55    <DIR>          ..
+23-01-2024  14:55               360 basic_flask.py
+23-01-2024  14:55            17,209 car data.csv
+23-01-2024  14:55            85,663 Car_Price_Prediction.ipynb
+23-01-2024  14:55               481 demo.pyc
+23-01-2024  14:56    <DIR>          fwdawsec2
+23-01-2024  14:55         3,404,512 fwdawsec2.zip
+23-01-2024  14:55             5,398 index.html
+23-01-2024  14:55             1,937 main.py
+23-01-2024  14:55        16,444,840 random_forest_regression_model.pkl
+               8 File(s)     19,960,400 bytes
+               3 Dir(s)  35,827,539,968 bytes free
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>code basic_flask.py
+'code' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>note basic_flask.py
+'note' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>vi basic_flask.py
+'vi' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>nano basic_flask.py
+'nano' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>notepad basic_flask.py
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>cd templates
+The system cannot find the path specified.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>cd templates
+The system cannot find the path specified.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>cd templates
+
+C:\Users\rishu\Downloads\AWS Deployment EC2\templates>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 9048-2C9E
+
+ Directory of C:\Users\rishu\Downloads\AWS Deployment EC2\templates
+
+23-01-2024  15:03    <DIR>          .
+23-01-2024  15:03    <DIR>          ..
+23-01-2024  14:55             5,398 index.html
+               1 File(s)          5,398 bytes
+               2 Dir(s)  35,981,189,120 bytes free
+
+C:\Users\rishu\Downloads\AWS Deployment EC2\templates>notepad index.html
+
+C:\Users\rishu\Downloads\AWS Deployment EC2\templates>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 9048-2C9E
+
+ Directory of C:\Users\rishu\Downloads\AWS Deployment EC2\templates
+
+23-01-2024  15:03    <DIR>          .
+23-01-2024  15:03    <DIR>          ..
+23-01-2024  14:55             5,398 index.html
+               1 File(s)          5,398 bytes
+               2 Dir(s)  35,982,041,088 bytes free
+
+C:\Users\rishu\Downloads\AWS Deployment EC2\templates>notepad main.py
+
+C:\Users\rishu\Downloads\AWS Deployment EC2\templates>cd ..
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 9048-2C9E
+
+ Directory of C:\Users\rishu\Downloads\AWS Deployment EC2
+
+23-01-2024  15:03    <DIR>          .
+23-01-2024  15:01    <DIR>          ..
+23-01-2024  14:55               360 basic_flask.py
+23-01-2024  14:55            17,209 car data.csv
+23-01-2024  14:55            85,663 Car_Price_Prediction.ipynb
+23-01-2024  14:55               481 demo.pyc
+23-01-2024  14:56    <DIR>          fwdawsec2
+23-01-2024  14:55         3,404,512 fwdawsec2.zip
+23-01-2024  14:55             1,937 main.py
+23-01-2024  14:55        16,444,840 random_forest_regression_model.pkl
+23-01-2024  15:03    <DIR>          templates
+               7 File(s)     19,955,002 bytes
+               4 Dir(s)  35,982,102,528 bytes free
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>notepad main.py
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python --version
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python --v
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python3
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install python
+'pip' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python3 --version
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python --version
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python --version
+Python 3.12.1
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python
+Python 3.12.1 (tags/v3.12.1:2305ca5, Dec  7 2023, 22:03:25) [MSC v.1937 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 3+4
+7
+>>> print("Hello Python")
+Hello Python
+>>> exit()
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python main.py
+Traceback (most recent call last):
+  File "C:\Users\rishu\Downloads\AWS Deployment EC2\main.py", line 1, in <module>
+    from flask  import Flask, render_template, request
+ModuleNotFoundError: No module named 'flask'
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install json
+Defaulting to user installation because normal site-packages is not writeable
+ERROR: Could not find a version that satisfies the requirement json (from versions: none)
+ERROR: No matching distribution found for json
+
+[notice] A new release of pip is available: 23.2.1 -> 23.3.2
+[notice] To update, run: C:\Users\rishu\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in c:\program files\windowsapps\pythonsoftwarefoundation.python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\lib\site-packages (23.2.1)
+Collecting pip
+  Obtaining dependency information for pip from https://files.pythonhosted.org/packages/15/aa/3f4c7bcee2057a76562a5b33ecbd199be08cdb4443a02e26bd2c3cf6fc39/pip-23.3.2-py3-none-any.whl.metadata
+  Downloading pip-23.3.2-py3-none-any.whl.metadata (3.5 kB)
+Downloading pip-23.3.2-py3-none-any.whl (2.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 5.0 MB/s eta 0:00:00
+Installing collected packages: pip
+  WARNING: The scripts pip.exe, pip3.12.exe and pip3.exe are installed in 'C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed pip-23.3.2
+
+[notice] A new release of pip is available: 23.2.1 -> 23.3.2
+[notice] To update, run: C:\Users\rishu\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install json
+Defaulting to user installation because normal site-packages is not writeable
+ERROR: Could not find a version that satisfies the requirement json (from versions: none)
+ERROR: No matching distribution found for json
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python get-pip.py
+python: can't open file 'C:\\Users\\rishu\\Downloads\\AWS Deployment EC2\\get-pip.py': [Errno 2] No such file or directory
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 2573k  100 2573k    0     0   559k      0  0:00:04  0:00:04 --:--:--  560k
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python get-pip.py
+Defaulting to user installation because normal site-packages is not writeable
+Collecting pip
+  Downloading pip-23.3.2-py3-none-any.whl.metadata (3.5 kB)
+Collecting setuptools
+  Downloading setuptools-69.0.3-py3-none-any.whl.metadata (6.3 kB)
+Collecting wheel
+  Downloading wheel-0.42.0-py3-none-any.whl.metadata (2.2 kB)
+Downloading pip-23.3.2-py3-none-any.whl (2.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 5.8 MB/s eta 0:00:00
+Downloading setuptools-69.0.3-py3-none-any.whl (819 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 819.5/819.5 kB 7.4 MB/s eta 0:00:00
+Downloading wheel-0.42.0-py3-none-any.whl (65 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 65.4/65.4 kB 1.8 MB/s eta 0:00:00
+Installing collected packages: wheel, setuptools, pip
+  WARNING: The script wheel.exe is installed in 'C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  Attempting uninstall: pip
+    Found existing installation: pip 23.3.2
+    Uninstalling pip-23.3.2:
+      Successfully uninstalled pip-23.3.2
+  WARNING: The scripts pip.exe, pip3.12.exe and pip3.exe are installed in 'C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed pip-23.3.2 setuptools-69.0.3 wheel-0.42.0
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install jsonify
+Defaulting to user installation because normal site-packages is not writeable
+Collecting jsonify
+  Downloading jsonify-0.5.tar.gz (1.0 kB)
+  Preparing metadata (setup.py) ... done
+Building wheels for collected packages: jsonify
+  Building wheel for jsonify (setup.py) ... done
+  Created wheel for jsonify: filename=jsonify-0.5-py3-none-any.whl size=1543 sha256=839d1a7475f7361a6825c49359003934624bc5725db35e14b7e8f34e05e437c4
+  Stored in directory: c:\users\rishu\appdata\local\pip\cache\wheels\7a\9c\71\e214d2d785577eee998e149a118acce6d442d92841b929b556
+Successfully built jsonify
+Installing collected packages: jsonify
+Successfully installed jsonify-0.5
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>history
+'history' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install numpy
+Defaulting to user installation because normal site-packages is not writeable
+Collecting numpy
+  Downloading numpy-1.26.3-cp312-cp312-win_amd64.whl.metadata (61 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.2/61.2 kB 326.7 kB/s eta 0:00:00
+Downloading numpy-1.26.3-cp312-cp312-win_amd64.whl (15.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 15.5/15.5 MB 11.9 MB/s eta 0:00:00
+Installing collected packages: numpy
+  WARNING: The script f2py.exe is installed in 'C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed numpy-1.26.3
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.0.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.0.2
+  Downloading scikit-learn-1.0.2.tar.gz (6.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.7/6.7 MB 364.7 kB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+ERROR: Exception:
+Traceback (most recent call last):
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\cli\base_command.py", line 180, in exc_logging_wrapper
+    status = run_func(*args)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\cli\req_command.py", line 245, in wrapper
+    return func(self, options, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\commands\install.py", line 377, in run
+    requirement_set = resolver.resolve(
+                      ^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\resolver.py", line 95, in resolve
+    result = self._result = resolver.resolve(
+                            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 546, in resolve
+    state = resolution.resolve(requirements, max_rounds=max_rounds)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 397, in resolve
+    self._add_to_criteria(self.state.criteria, r, parent=None)
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 173, in _add_to_criteria
+    if not criterion.candidates:
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\structs.py", line 156, in __bool__
+    return bool(self._sequence)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 155, in __bool__
+    return any(self)
+           ^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 143, in <genexpr>
+    return (c for c in iterator if id(c) not in self._incompatible_ids)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 47, in _iter_built
+    candidate = func()
+                ^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\factory.py", line 182, in _make_candidate_from_link
+    base: Optional[BaseCandidate] = self._make_base_candidate_from_link(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\factory.py", line 228, in _make_base_candidate_from_link
+    self._link_candidate_cache[link] = LinkCandidate(
+                                       ^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 293, in __init__
+    super().__init__(
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 156, in __init__
+    self.dist = self._prepare()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 225, in _prepare
+    dist = self._prepare_distribution()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 304, in _prepare_distribution
+    return preparer.prepare_linked_requirement(self._ireq, parallel_builds=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 525, in prepare_linked_requirement
+    return self._prepare_linked_requirement(req, parallel_builds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 640, in _prepare_linked_requirement
+    dist = _get_prepared_distribution(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 71, in _get_prepared_distribution
+    abstract_dist.prepare_distribution_metadata(
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 54, in prepare_distribution_metadata
+    self._install_build_reqs(finder)
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 124, in _install_build_reqs
+    build_reqs = self._get_build_requires_wheel()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 101, in _get_build_requires_wheel
+    return backend.get_requires_for_build_wheel()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\utils\misc.py", line 751, in get_requires_for_build_wheel
+    return super().get_requires_for_build_wheel(config_settings=cs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_impl.py", line 166, in get_requires_for_build_wheel
+    return self._call_hook('get_requires_for_build_wheel', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_impl.py", line 321, in _call_hook
+    raise BackendUnavailable(data.get('traceback', ''))
+pip._vendor.pyproject_hooks._impl.BackendUnavailable: Traceback (most recent call last):
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 77, in _build_backend
+    obj = import_module(mod_path)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\Lib\importlib\__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-qleufy8e\overlay\Lib\site-packages\setuptools\__init__.py", line 10, in <module>
+    import distutils.core
+ModuleNotFoundError: No module named 'distutils'
+
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn 1.2.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn
+  Downloading scikit_learn-1.4.0-1-cp312-cp312-win_amd64.whl.metadata (11 kB)
+ERROR: Could not find a version that satisfies the requirement 1.2.2 (from versions: none)
+ERROR: No matching distribution found for 1.2.2
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.2.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.2.2
+  Downloading scikit-learn-1.2.2.tar.gz (7.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.3/7.3 MB 290.6 kB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Preparing metadata (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [36 lines of output]
+      Partial import of sklearn during the build process.
+      Traceback (most recent call last):
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+          main()
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+          json_out['return_val'] = hook(**hook_input['kwargs'])
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 149, in prepare_metadata_for_build_wheel
+          return hook(metadata_directory, config_settings)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-ofbiu9kc\overlay\Lib\site-packages\setuptools\build_meta.py", line 366, in prepare_metadata_for_build_wheel
+          self.run_setup()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-ofbiu9kc\overlay\Lib\site-packages\setuptools\build_meta.py", line 480, in run_setup
+          super(_BuildMetaLegacyBackend, self).run_setup(setup_script=setup_script)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-ofbiu9kc\overlay\Lib\site-packages\setuptools\build_meta.py", line 311, in run_setup
+          exec(code, locals())
+        File "<string>", line 669, in <module>
+        File "<string>", line 663, in setup_package
+        File "<string>", line 597, in configure_extension_modules
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-b6ee4hrc\scikit-learn_37e34cd731a24a2c831c2eeb1e82f748\sklearn\_build_utils\__init__.py", line 47, in cythonize_extensions
+          basic_check_build()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-b6ee4hrc\scikit-learn_37e34cd731a24a2c831c2eeb1e82f748\sklearn\_build_utils\pre_build_helpers.py", line 82, in basic_check_build
+          compile_test_program(code)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-b6ee4hrc\scikit-learn_37e34cd731a24a2c831c2eeb1e82f748\sklearn\_build_utils\pre_build_helpers.py", line 38, in compile_test_program
+          ccompiler.compile(
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-ofbiu9kc\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 343, in compile
+          self.initialize()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-ofbiu9kc\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 253, in initialize
+          vc_env = _get_vc_env(plat_spec)
+                   ^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-ofbiu9kc\overlay\Lib\site-packages\setuptools\msvc.py", line 233, in msvc14_get_vc_env
+          return _msvc14_get_vc_env(plat_spec)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-ofbiu9kc\overlay\Lib\site-packages\setuptools\msvc.py", line 190, in _msvc14_get_vc_env
+          raise distutils.errors.DistutilsPlatformError("Unable to find vcvarsall.bat")
+      distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip list
+Package    Version
+---------- -------
+jsonify    0.5
+numpy      1.26.3
+pip        23.3.2
+setuptools 69.0.3
+wheel      0.42.0
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.2.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.2.2
+  Using cached scikit-learn-1.2.2.tar.gz (7.3 MB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Preparing metadata (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [36 lines of output]
+      Partial import of sklearn during the build process.
+      Traceback (most recent call last):
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+          main()
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+          json_out['return_val'] = hook(**hook_input['kwargs'])
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 149, in prepare_metadata_for_build_wheel
+          return hook(metadata_directory, config_settings)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-emg7ciih\overlay\Lib\site-packages\setuptools\build_meta.py", line 366, in prepare_metadata_for_build_wheel
+          self.run_setup()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-emg7ciih\overlay\Lib\site-packages\setuptools\build_meta.py", line 480, in run_setup
+          super(_BuildMetaLegacyBackend, self).run_setup(setup_script=setup_script)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-emg7ciih\overlay\Lib\site-packages\setuptools\build_meta.py", line 311, in run_setup
+          exec(code, locals())
+        File "<string>", line 669, in <module>
+        File "<string>", line 663, in setup_package
+        File "<string>", line 597, in configure_extension_modules
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-i693pq4o\scikit-learn_e8c108e27d0348609cbe4bfcb708611f\sklearn\_build_utils\__init__.py", line 47, in cythonize_extensions
+          basic_check_build()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-i693pq4o\scikit-learn_e8c108e27d0348609cbe4bfcb708611f\sklearn\_build_utils\pre_build_helpers.py", line 82, in basic_check_build
+          compile_test_program(code)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-i693pq4o\scikit-learn_e8c108e27d0348609cbe4bfcb708611f\sklearn\_build_utils\pre_build_helpers.py", line 38, in compile_test_program
+          ccompiler.compile(
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-emg7ciih\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 343, in compile
+          self.initialize()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-emg7ciih\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 253, in initialize
+          vc_env = _get_vc_env(plat_spec)
+                   ^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-emg7ciih\overlay\Lib\site-packages\setuptools\msvc.py", line 233, in msvc14_get_vc_env
+          return _msvc14_get_vc_env(plat_spec)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-emg7ciih\overlay\Lib\site-packages\setuptools\msvc.py", line 190, in _msvc14_get_vc_env
+          raise distutils.errors.DistutilsPlatformError("Unable to find vcvarsall.bat")
+      distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip3 install scikit-learn==1.2.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.2.2
+  Using cached scikit-learn-1.2.2.tar.gz (7.3 MB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Preparing metadata (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [36 lines of output]
+      Partial import of sklearn during the build process.
+      Traceback (most recent call last):
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+          main()
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+          json_out['return_val'] = hook(**hook_input['kwargs'])
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 149, in prepare_metadata_for_build_wheel
+          return hook(metadata_directory, config_settings)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-w56t101i\overlay\Lib\site-packages\setuptools\build_meta.py", line 366, in prepare_metadata_for_build_wheel
+          self.run_setup()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-w56t101i\overlay\Lib\site-packages\setuptools\build_meta.py", line 480, in run_setup
+          super(_BuildMetaLegacyBackend, self).run_setup(setup_script=setup_script)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-w56t101i\overlay\Lib\site-packages\setuptools\build_meta.py", line 311, in run_setup
+          exec(code, locals())
+        File "<string>", line 669, in <module>
+        File "<string>", line 663, in setup_package
+        File "<string>", line 597, in configure_extension_modules
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-m1mc413b\scikit-learn_9766b65192854a82b19bff482a91639a\sklearn\_build_utils\__init__.py", line 47, in cythonize_extensions
+          basic_check_build()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-m1mc413b\scikit-learn_9766b65192854a82b19bff482a91639a\sklearn\_build_utils\pre_build_helpers.py", line 82, in basic_check_build
+          compile_test_program(code)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-m1mc413b\scikit-learn_9766b65192854a82b19bff482a91639a\sklearn\_build_utils\pre_build_helpers.py", line 38, in compile_test_program
+          ccompiler.compile(
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-w56t101i\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 343, in compile
+          self.initialize()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-w56t101i\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 253, in initialize
+          vc_env = _get_vc_env(plat_spec)
+                   ^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-w56t101i\overlay\Lib\site-packages\setuptools\msvc.py", line 233, in msvc14_get_vc_env
+          return _msvc14_get_vc_env(plat_spec)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-w56t101i\overlay\Lib\site-packages\setuptools\msvc.py", line 190, in _msvc14_get_vc_env
+          raise distutils.errors.DistutilsPlatformError("Unable to find vcvarsall.bat")
+      distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python main.py
+Traceback (most recent call last):
+  File "C:\Users\rishu\Downloads\AWS Deployment EC2\main.py", line 1, in <module>
+    from flask  import Flask, render_template, request
+ModuleNotFoundError: No module named 'flask'
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install flask
+Defaulting to user installation because normal site-packages is not writeable
+Collecting flask
+  Downloading flask-3.0.1-py3-none-any.whl.metadata (3.6 kB)
+Collecting Werkzeug>=3.0.0 (from flask)
+  Downloading werkzeug-3.0.1-py3-none-any.whl.metadata (4.1 kB)
+Collecting Jinja2>=3.1.2 (from flask)
+  Downloading Jinja2-3.1.3-py3-none-any.whl.metadata (3.3 kB)
+Collecting itsdangerous>=2.1.2 (from flask)
+  Downloading itsdangerous-2.1.2-py3-none-any.whl (15 kB)
+Collecting click>=8.1.3 (from flask)
+  Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting blinker>=1.6.2 (from flask)
+  Downloading blinker-1.7.0-py3-none-any.whl.metadata (1.9 kB)
+Collecting colorama (from click>=8.1.3->flask)
+  Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting MarkupSafe>=2.0 (from Jinja2>=3.1.2->flask)
+  Downloading MarkupSafe-2.1.4-cp312-cp312-win_amd64.whl.metadata (3.1 kB)
+Downloading flask-3.0.1-py3-none-any.whl (101 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 101.2/101.2 kB 1.2 MB/s eta 0:00:00
+Downloading blinker-1.7.0-py3-none-any.whl (13 kB)
+Downloading click-8.1.7-py3-none-any.whl (97 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 97.9/97.9 kB 2.7 MB/s eta 0:00:00
+Downloading Jinja2-3.1.3-py3-none-any.whl (133 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 133.2/133.2 kB 7.7 MB/s eta 0:00:00
+Downloading werkzeug-3.0.1-py3-none-any.whl (226 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 226.7/226.7 kB 6.8 MB/s eta 0:00:00
+Downloading MarkupSafe-2.1.4-cp312-cp312-win_amd64.whl (17 kB)
+Installing collected packages: MarkupSafe, itsdangerous, colorama, blinker, Werkzeug, Jinja2, click, flask
+  WARNING: The script flask.exe is installed in 'C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed Jinja2-3.1.3 MarkupSafe-2.1.4 Werkzeug-3.0.1 blinker-1.7.0 click-8.1.7 colorama-0.4.6 flask-3.0.1 itsdangerous-2.1.2
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python main.py
+Traceback (most recent call last):
+  File "C:\Users\rishu\Downloads\AWS Deployment EC2\main.py", line 5, in <module>
+    import sklearn
+ModuleNotFoundError: No module named 'sklearn'
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.2.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.2.2
+  Using cached scikit-learn-1.2.2.tar.gz (7.3 MB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Preparing metadata (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [36 lines of output]
+      Partial import of sklearn during the build process.
+      Traceback (most recent call last):
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+          main()
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+          json_out['return_val'] = hook(**hook_input['kwargs'])
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 149, in prepare_metadata_for_build_wheel
+          return hook(metadata_directory, config_settings)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-_6xkmfws\overlay\Lib\site-packages\setuptools\build_meta.py", line 366, in prepare_metadata_for_build_wheel
+          self.run_setup()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-_6xkmfws\overlay\Lib\site-packages\setuptools\build_meta.py", line 480, in run_setup
+          super(_BuildMetaLegacyBackend, self).run_setup(setup_script=setup_script)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-_6xkmfws\overlay\Lib\site-packages\setuptools\build_meta.py", line 311, in run_setup
+          exec(code, locals())
+        File "<string>", line 669, in <module>
+        File "<string>", line 663, in setup_package
+        File "<string>", line 597, in configure_extension_modules
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-9v4c8oie\scikit-learn_f394c36b5ff5462da9936720d5d5920b\sklearn\_build_utils\__init__.py", line 47, in cythonize_extensions
+          basic_check_build()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-9v4c8oie\scikit-learn_f394c36b5ff5462da9936720d5d5920b\sklearn\_build_utils\pre_build_helpers.py", line 82, in basic_check_build
+          compile_test_program(code)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-9v4c8oie\scikit-learn_f394c36b5ff5462da9936720d5d5920b\sklearn\_build_utils\pre_build_helpers.py", line 38, in compile_test_program
+          ccompiler.compile(
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-_6xkmfws\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 343, in compile
+          self.initialize()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-_6xkmfws\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 253, in initialize
+          vc_env = _get_vc_env(plat_spec)
+                   ^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-_6xkmfws\overlay\Lib\site-packages\setuptools\msvc.py", line 233, in msvc14_get_vc_env
+          return _msvc14_get_vc_env(plat_spec)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-_6xkmfws\overlay\Lib\site-packages\setuptools\msvc.py", line 190, in _msvc14_get_vc_env
+          raise distutils.errors.DistutilsPlatformError("Unable to find vcvarsall.bat")
+      distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in c:\users\rishu\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (23.3.2)
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip cache purge
+Files removed: 113
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.2.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.2.2
+  Downloading scikit-learn-1.2.2.tar.gz (7.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.3/7.3 MB 284.7 kB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Preparing metadata (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [36 lines of output]
+      Partial import of sklearn during the build process.
+      Traceback (most recent call last):
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+          main()
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+          json_out['return_val'] = hook(**hook_input['kwargs'])
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 149, in prepare_metadata_for_build_wheel
+          return hook(metadata_directory, config_settings)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-8zeore8h\overlay\Lib\site-packages\setuptools\build_meta.py", line 366, in prepare_metadata_for_build_wheel
+          self.run_setup()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-8zeore8h\overlay\Lib\site-packages\setuptools\build_meta.py", line 480, in run_setup
+          super(_BuildMetaLegacyBackend, self).run_setup(setup_script=setup_script)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-8zeore8h\overlay\Lib\site-packages\setuptools\build_meta.py", line 311, in run_setup
+          exec(code, locals())
+        File "<string>", line 669, in <module>
+        File "<string>", line 663, in setup_package
+        File "<string>", line 597, in configure_extension_modules
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-s65t8cv9\scikit-learn_d672091c85ca42a6893ceb64d5ab37b2\sklearn\_build_utils\__init__.py", line 47, in cythonize_extensions
+          basic_check_build()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-s65t8cv9\scikit-learn_d672091c85ca42a6893ceb64d5ab37b2\sklearn\_build_utils\pre_build_helpers.py", line 82, in basic_check_build
+          compile_test_program(code)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-s65t8cv9\scikit-learn_d672091c85ca42a6893ceb64d5ab37b2\sklearn\_build_utils\pre_build_helpers.py", line 38, in compile_test_program
+          ccompiler.compile(
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-8zeore8h\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 343, in compile
+          self.initialize()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-8zeore8h\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 253, in initialize
+          vc_env = _get_vc_env(plat_spec)
+                   ^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-8zeore8h\overlay\Lib\site-packages\setuptools\msvc.py", line 233, in msvc14_get_vc_env
+          return _msvc14_get_vc_env(plat_spec)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-8zeore8h\overlay\Lib\site-packages\setuptools\msvc.py", line 190, in _msvc14_get_vc_env
+          raise distutils.errors.DistutilsPlatformError("Unable to find vcvarsall.bat")
+      distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn
+  Downloading scikit_learn-1.4.0-1-cp312-cp312-win_amd64.whl.metadata (11 kB)
+Requirement already satisfied: numpy<2.0,>=1.19.5 in c:\users\rishu\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from scikit-learn) (1.26.3)
+Collecting scipy>=1.6.0 (from scikit-learn)
+  Using cached scipy-1.12.0-cp312-cp312-win_amd64.whl.metadata (60 kB)
+Collecting joblib>=1.2.0 (from scikit-learn)
+  Downloading joblib-1.3.2-py3-none-any.whl.metadata (5.4 kB)
+Collecting threadpoolctl>=2.0.0 (from scikit-learn)
+  Downloading threadpoolctl-3.2.0-py3-none-any.whl.metadata (10.0 kB)
+Downloading scikit_learn-1.4.0-1-cp312-cp312-win_amd64.whl (10.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.6/10.6 MB 13.6 MB/s eta 0:00:00
+Downloading joblib-1.3.2-py3-none-any.whl (302 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 302.2/302.2 kB 4.7 MB/s eta 0:00:00
+Using cached scipy-1.12.0-cp312-cp312-win_amd64.whl (45.8 MB)
+Downloading threadpoolctl-3.2.0-py3-none-any.whl (15 kB)
+Installing collected packages: threadpoolctl, scipy, joblib, scikit-learn
+Successfully installed joblib-1.3.2 scikit-learn-1.4.0 scipy-1.12.0 threadpoolctl-3.2.0
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python main.py
+C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeRegressor from version 1.0.2 when using version 1.4.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator RandomForestRegressor from version 1.0.2 when using version 1.4.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+Traceback (most recent call last):
+  File "C:\Users\rishu\Downloads\AWS Deployment EC2\main.py", line 10, in <module>
+    model = pickle.load(open('random_forest_regression_model.pkl', 'rb'))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "sklearn\\tree\\_tree.pyx", line 865, in sklearn.tree._tree.Tree.__setstate__
+  File "sklearn\\tree\\_tree.pyx", line 1571, in sklearn.tree._tree._check_node_ndarray
+ValueError: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.2.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.2.2
+  Using cached scikit-learn-1.2.2.tar.gz (7.3 MB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Preparing metadata (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [36 lines of output]
+      Partial import of sklearn during the build process.
+      Traceback (most recent call last):
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 353, in <module>
+          main()
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 335, in main
+          json_out['return_val'] = hook(**hook_input['kwargs'])
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 149, in prepare_metadata_for_build_wheel
+          return hook(metadata_directory, config_settings)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-tx9hosro\overlay\Lib\site-packages\setuptools\build_meta.py", line 366, in prepare_metadata_for_build_wheel
+          self.run_setup()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-tx9hosro\overlay\Lib\site-packages\setuptools\build_meta.py", line 480, in run_setup
+          super(_BuildMetaLegacyBackend, self).run_setup(setup_script=setup_script)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-tx9hosro\overlay\Lib\site-packages\setuptools\build_meta.py", line 311, in run_setup
+          exec(code, locals())
+        File "<string>", line 669, in <module>
+        File "<string>", line 663, in setup_package
+        File "<string>", line 597, in configure_extension_modules
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-65z03996\scikit-learn_dd3d2d833d3a4e68b7588b4fa3879c4f\sklearn\_build_utils\__init__.py", line 47, in cythonize_extensions
+          basic_check_build()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-65z03996\scikit-learn_dd3d2d833d3a4e68b7588b4fa3879c4f\sklearn\_build_utils\pre_build_helpers.py", line 82, in basic_check_build
+          compile_test_program(code)
+        File "C:\Users\rishu\AppData\Local\Temp\pip-install-65z03996\scikit-learn_dd3d2d833d3a4e68b7588b4fa3879c4f\sklearn\_build_utils\pre_build_helpers.py", line 38, in compile_test_program
+          ccompiler.compile(
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-tx9hosro\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 343, in compile
+          self.initialize()
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-tx9hosro\overlay\Lib\site-packages\setuptools\_distutils\_msvccompiler.py", line 253, in initialize
+          vc_env = _get_vc_env(plat_spec)
+                   ^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-tx9hosro\overlay\Lib\site-packages\setuptools\msvc.py", line 233, in msvc14_get_vc_env
+          return _msvc14_get_vc_env(plat_spec)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-tx9hosro\overlay\Lib\site-packages\setuptools\msvc.py", line 190, in _msvc14_get_vc_env
+          raise distutils.errors.DistutilsPlatformError("Unable to find vcvarsall.bat")
+      distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python main.py
+C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator DecisionTreeRegressor from version 1.0.2 when using version 1.4.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator RandomForestRegressor from version 1.0.2 when using version 1.4.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+Traceback (most recent call last):
+  File "C:\Users\rishu\Downloads\AWS Deployment EC2\main.py", line 10, in <module>
+    model = pickle.load(open('random_forest_regression_model.pkl', 'rb'))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "sklearn\\tree\\_tree.pyx", line 865, in sklearn.tree._tree.Tree.__setstate__
+  File "sklearn\\tree\\_tree.pyx", line 1571, in sklearn.tree._tree._check_node_ndarray
+ValueError: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.0.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.0.2
+  Downloading scikit-learn-1.0.2.tar.gz (6.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.7/6.7 MB 351.5 kB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+ERROR: Exception:
+Traceback (most recent call last):
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\cli\base_command.py", line 180, in exc_logging_wrapper
+    status = run_func(*args)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\cli\req_command.py", line 245, in wrapper
+    return func(self, options, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\commands\install.py", line 377, in run
+    requirement_set = resolver.resolve(
+                      ^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\resolver.py", line 95, in resolve
+    result = self._result = resolver.resolve(
+                            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 546, in resolve
+    state = resolution.resolve(requirements, max_rounds=max_rounds)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 397, in resolve
+    self._add_to_criteria(self.state.criteria, r, parent=None)
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 173, in _add_to_criteria
+    if not criterion.candidates:
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\structs.py", line 156, in __bool__
+    return bool(self._sequence)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 155, in __bool__
+    return any(self)
+           ^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 143, in <genexpr>
+    return (c for c in iterator if id(c) not in self._incompatible_ids)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 47, in _iter_built
+    candidate = func()
+                ^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\factory.py", line 182, in _make_candidate_from_link
+    base: Optional[BaseCandidate] = self._make_base_candidate_from_link(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\factory.py", line 228, in _make_base_candidate_from_link
+    self._link_candidate_cache[link] = LinkCandidate(
+                                       ^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 293, in __init__
+    super().__init__(
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 156, in __init__
+    self.dist = self._prepare()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 225, in _prepare
+    dist = self._prepare_distribution()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 304, in _prepare_distribution
+    return preparer.prepare_linked_requirement(self._ireq, parallel_builds=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 525, in prepare_linked_requirement
+    return self._prepare_linked_requirement(req, parallel_builds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 640, in _prepare_linked_requirement
+    dist = _get_prepared_distribution(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 71, in _get_prepared_distribution
+    abstract_dist.prepare_distribution_metadata(
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 54, in prepare_distribution_metadata
+    self._install_build_reqs(finder)
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 124, in _install_build_reqs
+    build_reqs = self._get_build_requires_wheel()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 101, in _get_build_requires_wheel
+    return backend.get_requires_for_build_wheel()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\utils\misc.py", line 751, in get_requires_for_build_wheel
+    return super().get_requires_for_build_wheel(config_settings=cs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_impl.py", line 166, in get_requires_for_build_wheel
+    return self._call_hook('get_requires_for_build_wheel', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_impl.py", line 321, in _call_hook
+    raise BackendUnavailable(data.get('traceback', ''))
+pip._vendor.pyproject_hooks._impl.BackendUnavailable: Traceback (most recent call last):
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 77, in _build_backend
+    obj = import_module(mod_path)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\Lib\importlib\__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-pk4f060x\overlay\Lib\site-packages\setuptools\__init__.py", line 10, in <module>
+    import distutils.core
+ModuleNotFoundError: No module named 'distutils'
+
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install distutils
+Defaulting to user installation because normal site-packages is not writeable
+ERROR: Could not find a version that satisfies the requirement distutils (from versions: none)
+ERROR: No matching distribution found for distutils
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>import distutils.core
+'import' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install distutils.core
+Defaulting to user installation because normal site-packages is not writeable
+ERROR: Could not find a version that satisfies the requirement distutils.core (from versions: none)
+ERROR: No matching distribution found for distutils.core
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install python-distutils
+Defaulting to user installation because normal site-packages is not writeable
+ERROR: Could not find a version that satisfies the requirement python-distutils (from versions: none)
+ERROR: No matching distribution found for python-distutils
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python install distutils
+python: can't open file 'C:\\Users\\rishu\\Downloads\\AWS Deployment EC2\\install': [Errno 2] No such file or directory
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python -c "import distutils"
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.0.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.0.2
+  Using cached scikit-learn-1.0.2.tar.gz (6.7 MB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+ERROR: Exception:
+Traceback (most recent call last):
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\cli\base_command.py", line 180, in exc_logging_wrapper
+    status = run_func(*args)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\cli\req_command.py", line 245, in wrapper
+    return func(self, options, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\commands\install.py", line 377, in run
+    requirement_set = resolver.resolve(
+                      ^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\resolver.py", line 95, in resolve
+    result = self._result = resolver.resolve(
+                            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 546, in resolve
+    state = resolution.resolve(requirements, max_rounds=max_rounds)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 397, in resolve
+    self._add_to_criteria(self.state.criteria, r, parent=None)
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 173, in _add_to_criteria
+    if not criterion.candidates:
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\structs.py", line 156, in __bool__
+    return bool(self._sequence)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 155, in __bool__
+    return any(self)
+           ^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 143, in <genexpr>
+    return (c for c in iterator if id(c) not in self._incompatible_ids)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 47, in _iter_built
+    candidate = func()
+                ^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\factory.py", line 182, in _make_candidate_from_link
+    base: Optional[BaseCandidate] = self._make_base_candidate_from_link(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\factory.py", line 228, in _make_base_candidate_from_link
+    self._link_candidate_cache[link] = LinkCandidate(
+                                       ^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 293, in __init__
+    super().__init__(
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 156, in __init__
+    self.dist = self._prepare()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 225, in _prepare
+    dist = self._prepare_distribution()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 304, in _prepare_distribution
+    return preparer.prepare_linked_requirement(self._ireq, parallel_builds=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 525, in prepare_linked_requirement
+    return self._prepare_linked_requirement(req, parallel_builds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 640, in _prepare_linked_requirement
+    dist = _get_prepared_distribution(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 71, in _get_prepared_distribution
+    abstract_dist.prepare_distribution_metadata(
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 54, in prepare_distribution_metadata
+    self._install_build_reqs(finder)
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 124, in _install_build_reqs
+    build_reqs = self._get_build_requires_wheel()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 101, in _get_build_requires_wheel
+    return backend.get_requires_for_build_wheel()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\utils\misc.py", line 751, in get_requires_for_build_wheel
+    return super().get_requires_for_build_wheel(config_settings=cs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_impl.py", line 166, in get_requires_for_build_wheel
+    return self._call_hook('get_requires_for_build_wheel', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_impl.py", line 321, in _call_hook
+    raise BackendUnavailable(data.get('traceback', ''))
+pip._vendor.pyproject_hooks._impl.BackendUnavailable: Traceback (most recent call last):
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 77, in _build_backend
+    obj = import_module(mod_path)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\Lib\importlib\__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-rnwsnf5b\overlay\Lib\site-packages\setuptools\__init__.py", line 10, in <module>
+    import distutils.core
+ModuleNotFoundError: No module named 'distutils'
+
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>python -c "import distutils.core"
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.0.2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting scikit-learn==1.0.2
+  Using cached scikit-learn-1.0.2.tar.gz (6.7 MB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+ERROR: Exception:
+Traceback (most recent call last):
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\cli\base_command.py", line 180, in exc_logging_wrapper
+    status = run_func(*args)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\cli\req_command.py", line 245, in wrapper
+    return func(self, options, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\commands\install.py", line 377, in run
+    requirement_set = resolver.resolve(
+                      ^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\resolver.py", line 95, in resolve
+    result = self._result = resolver.resolve(
+                            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 546, in resolve
+    state = resolution.resolve(requirements, max_rounds=max_rounds)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 397, in resolve
+    self._add_to_criteria(self.state.criteria, r, parent=None)
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\resolvers.py", line 173, in _add_to_criteria
+    if not criterion.candidates:
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\resolvelib\structs.py", line 156, in __bool__
+    return bool(self._sequence)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 155, in __bool__
+    return any(self)
+           ^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 143, in <genexpr>
+    return (c for c in iterator if id(c) not in self._incompatible_ids)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py", line 47, in _iter_built
+    candidate = func()
+                ^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\factory.py", line 182, in _make_candidate_from_link
+    base: Optional[BaseCandidate] = self._make_base_candidate_from_link(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\factory.py", line 228, in _make_base_candidate_from_link
+    self._link_candidate_cache[link] = LinkCandidate(
+                                       ^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 293, in __init__
+    super().__init__(
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 156, in __init__
+    self.dist = self._prepare()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 225, in _prepare
+    dist = self._prepare_distribution()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\resolution\resolvelib\candidates.py", line 304, in _prepare_distribution
+    return preparer.prepare_linked_requirement(self._ireq, parallel_builds=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 525, in prepare_linked_requirement
+    return self._prepare_linked_requirement(req, parallel_builds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 640, in _prepare_linked_requirement
+    dist = _get_prepared_distribution(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\operations\prepare.py", line 71, in _get_prepared_distribution
+    abstract_dist.prepare_distribution_metadata(
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 54, in prepare_distribution_metadata
+    self._install_build_reqs(finder)
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 124, in _install_build_reqs
+    build_reqs = self._get_build_requires_wheel()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\distributions\sdist.py", line 101, in _get_build_requires_wheel
+    return backend.get_requires_for_build_wheel()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_internal\utils\misc.py", line 751, in get_requires_for_build_wheel
+    return super().get_requires_for_build_wheel(config_settings=cs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_impl.py", line 166, in get_requires_for_build_wheel
+    return self._call_hook('get_requires_for_build_wheel', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_impl.py", line 321, in _call_hook
+    raise BackendUnavailable(data.get('traceback', ''))
+pip._vendor.pyproject_hooks._impl.BackendUnavailable: Traceback (most recent call last):
+  File "C:\Users\rishu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 77, in _build_backend
+    obj = import_module(mod_path)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\Lib\importlib\__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\rishu\AppData\Local\Temp\pip-build-env-ndr116_o\overlay\Lib\site-packages\setuptools\__init__.py", line 10, in <module>
+    import distutils.core
+ModuleNotFoundError: No module named 'distutils'
+
+
+C:\Users\rishu\Downloads\AWS Deployment EC2>pip install scikit-learn==1.0.2
